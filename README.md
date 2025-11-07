@@ -10,4 +10,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=<76561198379265918 here>)
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=<76561198379265918 here>"/>
