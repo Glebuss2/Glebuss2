@@ -10,4 +10,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=<76561198379265918>"/>
+![steam stat](https://github-readme-steam-card.vercel.app/status/?steamid=<76561198379265918>&show_recent_game_bg=true)
